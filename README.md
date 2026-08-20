@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/board_hero.png" width="600" alt="Wavtron Tinker 5">
+<img width="432" height="852" alt="Wavtron_RISCV_DEV_BOARDFRONT1" src="https://github.com/user-attachments/assets/1c1088d5-b29c-478b-9552-8ba0ab8789d9" />
 </p>
 
 <h1 align="center">Wavtron Tinker 5</h1>
