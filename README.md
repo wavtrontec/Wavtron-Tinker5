@@ -336,7 +336,7 @@ Wavtron_Tinker5/
 
 ## License
 
-Hardware design files (schematic, PCB) are released under the **CERN Open Hardware Licence v2 — Weakly Reciprocal**. See [`LICENSE`](LICENSE).
+Hardware design files (schematic) are released under the **CERN Open Hardware Licence v2 — Weakly Reciprocal**. See [`LICENSE`](LICENSE).
 
 ---
 
